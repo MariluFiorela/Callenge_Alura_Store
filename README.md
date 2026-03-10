@@ -1,4 +1,4 @@
-# Callenge_Alura_Store
+# Challenge_Alura_Store
 Desafío para desarrollar tus habilidades en análisis de datos con Python y manipulación de datos. 
 
 # 📊 Data Science Challenge: Optimización de "Alura Store"
